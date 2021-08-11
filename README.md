@@ -42,7 +42,7 @@ Returns:
 
 **y_test**: uint8 NumPy array of labels (integers in range 0-9)
   with shape (10000,) for the test data.
-### **Model Summary**
+# **Model Summary**
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
